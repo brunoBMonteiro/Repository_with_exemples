@@ -1,0 +1,49 @@
+
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(ç¨Ùüÿÿÿÿ
+A
+java:S2185"&Remove this silly call to "Math.floor"(Ì é³ıÿÿÿÿ
+Q
+java:S1854)";Remove this useless assignment to local variable "retorno".(éĞ–ò
+Q	java:S125="<This block of commented-out lines of code should be removed.(¼×Ûú
+Q	java:S125>"<This block of commented-out lines of code should be removed.(½¢è†
+Q	java:S125?"<This block of commented-out lines of code should be removed.(Æòïë
+Q	java:S125@"<This block of commented-out lines of code should be removed.(êÎ¾¡
+V
+java:S1854n"@Remove this useless assignment to local variable "numeroGerado".(Ö“Ã
+E
+java:S1481["/Remove this unused "nDigResult" local variable.(¶éˆ
+4
+java:S2119^"Save and re-use this "Random".(Í“Šö
+g
+java:S3457|"Q%n should be used in place of \n to produce the platform-specific line separator.(º¾û›
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(º¾û›
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¶‚ŸØúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶‚ŸØúÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(Ò˜âÛÿÿÿÿÿ
+?
+java:S1659"#Declare "dig11" on a separate line.(îùıøÿÿÿÿ
+U
+java:S1659">Declare "i" and all following declarations on a separate line.(¸„áë
+B
+java:S1905›"&Remove this unnecessary cast to "int".(ÚËÍ¶ıÿÿÿÿ
+B
+java:S1905ª"&Remove this unnecessary cast to "int".(ÚËÍ¶ıÿÿÿÿ
+n
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(³ì“ùÿÿÿÿ
+:
+java:S1659Ç"#Declare "dig14" on a separate line.(Æî®ş
+U
+java:S1659È">Declare "i" and all following declarations on a separate line.(¸„áë
+B
+java:S1905Ó"&Remove this unnecessary cast to "int".(ì¤¤»ûÿÿÿÿ
+B
+java:S1905ä"&Remove this unnecessary cast to "int".(ì¤¤»ûÿÿÿÿ
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶øû¥şÿÿÿÿ
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ì“ùÿÿÿÿ
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¾Ú÷ùÿÿÿÿ
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "ranNum".(ç¨Ùüÿÿÿÿ
+]
+java:S2184"BCast one of the operands of this division operation to a "double".(Ì é³ıÿÿÿÿ
